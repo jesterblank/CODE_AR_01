@@ -5,6 +5,10 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "ARUtilities",
+			"Enabled": true
+		},
+		{
 			"Name": "GoogleARCore",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
